@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1106467676cf20d41b280ff8b5ae333a, type: 3}
+  m_Name: Soy
+  m_EditorClassIdentifier: 
+  Nomination: "\u0421\u043E\u044F"
+  culture_sprite: {fileID: 21300000, guid: d00e089edef292746af2c1a7f040e08b, type: 3}
+  paragraphs: []
+  summary_paragraphs: []
+  elements_paragraphs: []
+  phases_paragraphs:
+  - title: "\u0424\u0430\u0437\u044B"
+    text: 
+    image: {fileID: 21300000, guid: e63099c695b132b4b8b56c92250241f2, type: 3}
+  cost_to_use_paragraph: []

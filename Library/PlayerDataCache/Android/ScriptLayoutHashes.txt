@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-E:/UnityProjects/Agrifert builds/Android/agrifert_app_android_11.apk
+C:/Builds/agrifert_app.apk
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
@@ -19,7 +19,7 @@ e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.G
 e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 201e3fde670b00545944bb3db215c80a UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 e7a73f5f78ba6445195ec23b74a1ce2d Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.WebManager
+a25fe68cb5996456f906d82586577553 Assembly-CSharp.dll:.WebManager
 cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 5fc094978ce3e3591a7500ed380d854a UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -170,3 +170,9 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 0a1c7a57b88be0269c0ea04fc21cbfe1 Assembly-CSharp.dll:.PanelResizer
 97ace6213ad0f149b0917a4c669c6ca3 Assembly-CSharp.dll:.ScrollRect_fix
 b586e544f94bdd0efc123d043d2843e0 Assembly-CSharp.dll:.CultureItemReader
+cb44377b38805217ec3cbe930b381c56 Assembly-CSharp.dll:.TestItem
+03d205b1cc8a432696e73ace52047abc Assembly-CSharp.dll:.RegionResultsSetter
+d14533903e1c8a01fdc1410300a4259d Assembly-CSharp.dll:.RegionResults
+9857a98b10206b4d8fa7a2ccbda17bea Assembly-CSharp.dll:.Test_button
+aec37d1865741b6f28c77ede62974c47 Assembly-CSharp.dll:.RegionButton
+9cce42289f9c2b9271cc70224e254adf Assembly-CSharp.dll:.VerticalSizeFitter_fromGrid
